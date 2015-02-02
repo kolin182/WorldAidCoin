@@ -1,0 +1,354 @@
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  44ms
+Shutdown : done
+2014-04-26 08:01:01 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-26 08:01:01 Vertcoin version v0.8.6.3.2-beta (2014-04-25 12:22:41 +0200)
+2014-04-26 08:01:01 Using OpenSSL version OpenSSL 1.0.1 14 Mar 2012
+2014-04-26 08:01:01 Default data directory /home/kolin182/.vertcoin
+2014-04-26 08:01:01 Using data directory 
+2014-04-26 08:01:01 Using at most 125 connections (1024 file descriptors available)
+2014-04-26 08:01:01 Using 4 threads for script verification
+2014-04-26 08:01:01 init message: Verifying wallet...
+2014-04-26 08:01:02 dbenv.open LogDir=database ErrorFile=db.log
+2014-04-26 08:01:02 Bound to [::]:5989
+2014-04-26 08:01:02 Bound to 0.0.0.0:5989
+2014-04-26 08:01:02 init message: Loading block index...
+2014-04-26 08:01:02 Opening LevelDB in blocks/index
+2014-04-26 08:01:02 Opened LevelDB successfully
+2014-04-26 08:01:02 Opening LevelDB in chainstate
+2014-04-26 08:01:02 Opened LevelDB successfully
+2014-04-26 08:01:02 LoadBlockIndexDB(): last block file = 0
+2014-04-26 08:01:02 LoadBlockIndexDB(): transaction index disabled
+2014-04-26 08:01:02 Initializing databases...
+2014-04-26 08:01:02 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 08:01:02 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 08:01:02 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7
+2014-04-26 08:01:02 CBlock(hash=4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4, input=010000000000000000000000000000000000000000000000000000000000000000000000e72301fc49323ee151cf1048230f032ca589753ba7086222a5c023e3a08cf34a8b35cf52f0ff0f1e0eba5700, PoW=000005cc425e3c06dd1416866440a70dc9eb4710b2e9c71653c8e197493cbbb9, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, nTime=1389311371, nBits=1e0ffff0, nNonce=5749262, vtx=1)
+2014-04-26 08:01:02   CTransaction(hash=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 0002e7034130312f30392f32303134204765726d616e7920746f2048656c7020696e20446973706f73616c206f662053797269616e204368656d6963616c20576561706f6e73)
+    CTxOut(error)
+  vMerkleTree: 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7 
+2014-04-26 08:01:02 ERROR: LoadBlockIndex() : failed to initialize block database: boost::filesystem::space: No such file or directory
+2014-04-26 08:01:02 : Error initializing block database.
+
+Do you want to rebuild the block database now?
+2014-04-26 08:01:02 Shutdown : In progress...
+2014-04-26 08:01:02 StopNode()
+2014-04-26 08:01:02 Flushed 0 addresses to peers.dat  27ms
+2014-04-26 08:01:02 Committing 0 changed transactions to coin database...
+2014-04-26 08:01:02 Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  55ms
+Shutdown : done
+2014-04-26 08:13:03 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-26 08:13:03 Vertcoin version v0.8.6.3.2-beta (2014-04-26 10:05:02 +0200)
+2014-04-26 08:13:03 Using OpenSSL version OpenSSL 1.0.1 14 Mar 2012
+2014-04-26 08:13:03 Default data directory /home/kolin182/.vertcoin
+2014-04-26 08:13:03 Using data directory 
+2014-04-26 08:13:03 Using at most 125 connections (1024 file descriptors available)
+2014-04-26 08:13:03 Using 4 threads for script verification
+2014-04-26 08:13:03 init message: Verifying wallet...
+2014-04-26 08:13:03 dbenv.open LogDir=database ErrorFile=db.log
+2014-04-26 08:13:03 Bound to [::]:5989
+2014-04-26 08:13:03 Bound to 0.0.0.0:5989
+2014-04-26 08:13:03 init message: Loading block index...
+2014-04-26 08:13:03 Opening LevelDB in blocks/index
+2014-04-26 08:13:03 Opened LevelDB successfully
+2014-04-26 08:13:03 Opening LevelDB in chainstate
+2014-04-26 08:13:03 Opened LevelDB successfully
+2014-04-26 08:13:03 LoadBlockIndexDB(): last block file = 0
+2014-04-26 08:13:03 LoadBlockIndexDB(): transaction index disabled
+2014-04-26 08:13:03 Initializing databases...
+2014-04-26 08:13:03 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 08:13:03 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 08:13:03 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7
+2014-04-26 08:13:03 CBlock(hash=4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4, input=010000000000000000000000000000000000000000000000000000000000000000000000e72301fc49323ee151cf1048230f032ca589753ba7086222a5c023e3a08cf34a8b35cf52f0ff0f1e0eba5700, PoW=000005cc425e3c06dd1416866440a70dc9eb4710b2e9c71653c8e197493cbbb9, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, nTime=1389311371, nBits=1e0ffff0, nNonce=5749262, vtx=1)
+2014-04-26 08:13:03   CTransaction(hash=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 0002e7034130312f30392f32303134204765726d616e7920746f2048656c7020696e20446973706f73616c206f662053797269616e204368656d6963616c20576561706f6e73)
+    CTxOut(error)
+  vMerkleTree: 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7 
+2014-04-26 08:13:03 ERROR: LoadBlockIndex() : failed to initialize block database: boost::filesystem::space: No such file or directory
+2014-04-26 08:13:03 : Error initializing block database.
+
+Do you want to rebuild the block database now?
+2014-04-26 08:13:03 Shutdown : In progress...
+2014-04-26 08:13:03 StopNode()
+2014-04-26 08:13:03 Flushed 0 addresses to peers.dat  35ms
+2014-04-26 08:13:03 Committing 0 changed transactions to coin database...
+2014-04-26 08:13:03 Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  54ms
+Shutdown : done
+2014-04-26 09:59:54 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-26 09:59:54 Vertcoin version v0.8.6.3.2-beta (2014-04-26 10:05:02 +0200)
+2014-04-26 09:59:54 Using OpenSSL version OpenSSL 1.0.1 14 Mar 2012
+2014-04-26 09:59:54 Default data directory /home/kolin182/.vertcoin
+2014-04-26 09:59:54 Using data directory 
+2014-04-26 09:59:54 Using at most 125 connections (1024 file descriptors available)
+2014-04-26 09:59:54 Using 4 threads for script verification
+2014-04-26 09:59:54 init message: Verifying wallet...
+2014-04-26 09:59:54 dbenv.open LogDir=database ErrorFile=db.log
+2014-04-26 09:59:54 Bound to [::]:5989
+2014-04-26 09:59:54 Bound to 0.0.0.0:5989
+2014-04-26 09:59:54 init message: Loading block index...
+2014-04-26 09:59:54 Opening LevelDB in blocks/index
+2014-04-26 09:59:54 Opened LevelDB successfully
+2014-04-26 09:59:54 Opening LevelDB in chainstate
+2014-04-26 09:59:54 Opened LevelDB successfully
+2014-04-26 09:59:54 LoadBlockIndexDB(): last block file = 0
+2014-04-26 09:59:54 LoadBlockIndexDB(): transaction index disabled
+2014-04-26 09:59:54 Initializing databases...
+2014-04-26 09:59:54 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 09:59:54 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 09:59:54 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7
+2014-04-26 09:59:54 CBlock(hash=4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4, input=010000000000000000000000000000000000000000000000000000000000000000000000e72301fc49323ee151cf1048230f032ca589753ba7086222a5c023e3a08cf34a8b35cf52f0ff0f1e0eba5700, PoW=000005cc425e3c06dd1416866440a70dc9eb4710b2e9c71653c8e197493cbbb9, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, nTime=1389311371, nBits=1e0ffff0, nNonce=5749262, vtx=1)
+2014-04-26 09:59:54   CTransaction(hash=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 0002e7034130312f30392f32303134204765726d616e7920746f2048656c7020696e20446973706f73616c206f662053797269616e204368656d6963616c20576561706f6e73)
+    CTxOut(error)
+  vMerkleTree: 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7 
+2014-04-26 09:59:54 ERROR: LoadBlockIndex() : failed to initialize block database: boost::filesystem::space: No such file or directory
+2014-04-26 09:59:54 : Error initializing block database.
+
+Do you want to rebuild the block database now?
+2014-04-26 09:59:54 Shutdown : In progress...
+2014-04-26 09:59:54 StopNode()
+2014-04-26 09:59:54 Flushed 0 addresses to peers.dat  32ms
+2014-04-26 09:59:54 Committing 0 changed transactions to coin database...
+2014-04-26 09:59:54 Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  50ms
+Shutdown : done
+2014-04-26 15:11:15 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-26 15:11:15 Vertcoin version v0.8.6.3.2-beta (2014-04-26 12:28:02 +0200)
+2014-04-26 15:11:15 Using OpenSSL version OpenSSL 1.0.1 14 Mar 2012
+2014-04-26 15:11:15 Default data directory /home/kolin182/.vertcoin
+2014-04-26 15:11:15 Using data directory 
+2014-04-26 15:11:15 Using at most 125 connections (4096 file descriptors available)
+2014-04-26 15:11:15 Using 4 threads for script verification
+2014-04-26 15:11:15 init message: Verifying wallet...
+2014-04-26 15:11:15 dbenv.open LogDir=database ErrorFile=db.log
+2014-04-26 15:11:15 Bound to [::]:5989
+2014-04-26 15:11:15 Bound to 0.0.0.0:5989
+2014-04-26 15:11:15 init message: Loading block index...
+2014-04-26 15:11:15 Opening LevelDB in blocks/index
+2014-04-26 15:11:15 Opened LevelDB successfully
+2014-04-26 15:11:15 Opening LevelDB in chainstate
+2014-04-26 15:11:15 Opened LevelDB successfully
+2014-04-26 15:11:15 LoadBlockIndexDB(): last block file = 0
+2014-04-26 15:11:15 LoadBlockIndexDB(): transaction index disabled
+2014-04-26 15:11:15 Initializing databases...
+2014-04-26 15:11:15 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 15:11:15 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 15:11:15 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7
+2014-04-26 15:11:15 CBlock(hash=4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4, input=010000000000000000000000000000000000000000000000000000000000000000000000e72301fc49323ee151cf1048230f032ca589753ba7086222a5c023e3a08cf34a8b35cf52f0ff0f1e0eba5700, PoW=000005cc425e3c06dd1416866440a70dc9eb4710b2e9c71653c8e197493cbbb9, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, nTime=1389311371, nBits=1e0ffff0, nNonce=5749262, vtx=1)
+2014-04-26 15:11:15   CTransaction(hash=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 0002e7034130312f30392f32303134204765726d616e7920746f2048656c7020696e20446973706f73616c206f662053797269616e204368656d6963616c20576561706f6e73)
+    CTxOut(error)
+  vMerkleTree: 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7 
+2014-04-26 15:11:15 ERROR: LoadBlockIndex() : failed to initialize block database: boost::filesystem::space: No such file or directory
+2014-04-26 15:11:15 : Error initializing block database.
+
+Do you want to rebuild the block database now?
+2014-04-26 15:11:15 Shutdown : In progress...
+2014-04-26 15:11:15 StopNode()
+2014-04-26 15:11:16 Flushed 0 addresses to peers.dat  74ms
+2014-04-26 15:11:16 Committing 0 changed transactions to coin database...
+2014-04-26 15:11:16 Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  40ms
+Shutdown : done
+2014-04-26 15:12:08 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-26 15:12:08 Vertcoin version v0.8.6.3.2-beta (2014-04-26 12:28:02 +0200)
+2014-04-26 15:12:08 Using OpenSSL version OpenSSL 1.0.1 14 Mar 2012
+2014-04-26 15:12:08 Default data directory /home/kolin182/.vertcoin
+2014-04-26 15:12:08 Using data directory 
+2014-04-26 15:12:08 Using at most 125 connections (4096 file descriptors available)
+2014-04-26 15:12:08 Using 4 threads for script verification
+2014-04-26 15:12:08 init message: Verifying wallet...
+2014-04-26 15:12:08 dbenv.open LogDir=database ErrorFile=db.log
+2014-04-26 15:12:08 Bound to [::]:5989
+2014-04-26 15:12:08 Bound to 0.0.0.0:5989
+2014-04-26 15:12:08 init message: Loading block index...
+2014-04-26 15:12:08 Opening LevelDB in blocks/index
+2014-04-26 15:12:08 Opened LevelDB successfully
+2014-04-26 15:12:08 Opening LevelDB in chainstate
+2014-04-26 15:12:08 Opened LevelDB successfully
+2014-04-26 15:12:08 LoadBlockIndexDB(): last block file = 0
+2014-04-26 15:12:08 LoadBlockIndexDB(): transaction index disabled
+2014-04-26 15:12:08 Initializing databases...
+2014-04-26 15:12:08 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 15:12:08 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 15:12:08 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7
+2014-04-26 15:12:08 CBlock(hash=4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4, input=010000000000000000000000000000000000000000000000000000000000000000000000e72301fc49323ee151cf1048230f032ca589753ba7086222a5c023e3a08cf34a8b35cf52f0ff0f1e0eba5700, PoW=000005cc425e3c06dd1416866440a70dc9eb4710b2e9c71653c8e197493cbbb9, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, nTime=1389311371, nBits=1e0ffff0, nNonce=5749262, vtx=1)
+2014-04-26 15:12:08   CTransaction(hash=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 0002e7034130312f30392f32303134204765726d616e7920746f2048656c7020696e20446973706f73616c206f662053797269616e204368656d6963616c20576561706f6e73)
+    CTxOut(error)
+  vMerkleTree: 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7 
+2014-04-26 15:12:08 ERROR: LoadBlockIndex() : failed to initialize block database: boost::filesystem::space: No such file or directory
+2014-04-26 15:12:08 : Error initializing block database.
+
+Do you want to rebuild the block database now?
+2014-04-26 15:12:08 Shutdown : In progress...
+2014-04-26 15:12:08 StopNode()
+2014-04-26 15:12:08 Flushed 0 addresses to peers.dat  40ms
+2014-04-26 15:12:08 Committing 0 changed transactions to coin database...
+2014-04-26 15:12:08 Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  49ms
+Shutdown : done
+2014-04-26 15:14:16 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-26 15:14:16 Vertcoin version v0.8.6.3.2-beta (2014-04-26 12:28:02 +0200)
+2014-04-26 15:14:16 Using OpenSSL version OpenSSL 1.0.1 14 Mar 2012
+2014-04-26 15:14:16 Default data directory /home/kolin182/.vertcoin
+2014-04-26 15:14:16 Using data directory 
+2014-04-26 15:14:16 Using at most 125 connections (4096 file descriptors available)
+2014-04-26 15:14:16 Using 4 threads for script verification
+2014-04-26 15:14:16 init message: Verifying wallet...
+2014-04-26 15:14:16 dbenv.open LogDir=database ErrorFile=db.log
+2014-04-26 15:14:16 Bound to [::]:5989
+2014-04-26 15:14:16 Bound to 0.0.0.0:5989
+2014-04-26 15:14:16 init message: Loading block index...
+2014-04-26 15:14:16 Opening LevelDB in blocks/index
+2014-04-26 15:14:16 Opened LevelDB successfully
+2014-04-26 15:14:16 Opening LevelDB in chainstate
+2014-04-26 15:14:16 Opened LevelDB successfully
+2014-04-26 15:14:16 LoadBlockIndexDB(): last block file = 0
+2014-04-26 15:14:16 LoadBlockIndexDB(): transaction index disabled
+2014-04-26 15:14:16 Initializing databases...
+2014-04-26 15:14:16 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 15:14:16 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-04-26 15:14:16 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7
+2014-04-26 15:14:16 CBlock(hash=4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4, input=010000000000000000000000000000000000000000000000000000000000000000000000e72301fc49323ee151cf1048230f032ca589753ba7086222a5c023e3a08cf34a8b35cf52f0ff0f1e0eba5700, PoW=000005cc425e3c06dd1416866440a70dc9eb4710b2e9c71653c8e197493cbbb9, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, nTime=1389311371, nBits=1e0ffff0, nNonce=5749262, vtx=1)
+2014-04-26 15:14:16   CTransaction(hash=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 0002e7034130312f30392f32303134204765726d616e7920746f2048656c7020696e20446973706f73616c206f662053797269616e204368656d6963616c20576561706f6e73)
+    CTxOut(error)
+  vMerkleTree: 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7 
+2014-04-26 15:14:16 ERROR: LoadBlockIndex() : failed to initialize block database: boost::filesystem::space: No such file or directory
+2014-04-26 15:14:16 : Error initializing block database.
+
+Do you want to rebuild the block database now?
+2014-04-26 15:14:16 Shutdown : In progress...
+2014-04-26 15:14:16 StopNode()
+2014-04-26 15:14:16 Flushed 0 addresses to peers.dat  46ms
+2014-04-26 15:14:16 Committing 0 changed transactions to coin database...
+2014-04-26 15:14:16 Shutdown : done

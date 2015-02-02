@@ -1,0 +1,920 @@
+2014-05-05 18:48:34 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-05-05 18:48:34 WorldAidCoin version v0.8.6.3.2-beta (2014-05-05 19:49:50 +0200)
+2014-05-05 18:48:34 Using OpenSSL version OpenSSL 1.0.1 14 Mar 2012
+2014-05-05 18:48:34 Default data directory /home/kolin182/.WorldAidCoin
+2014-05-05 18:48:34 Using data directory /home/kolin182/Documentos/datos_antiguos/datos/trabajo_opentia/Matthew_vertcoin/vertcoin_limpio_100x100/vertcoin/src/.WorldAidCoin2/
+2014-05-05 18:48:34 Using at most 125 connections (1024 file descriptors available)
+2014-05-05 18:48:34 Using 4 threads for script verification
+2014-05-05 18:48:34 init message: Verifying wallet...
+2014-05-05 18:48:34 dbenv.open LogDir=/home/kolin182/Documentos/datos_antiguos/datos/trabajo_opentia/Matthew_vertcoin/vertcoin_limpio_100x100/vertcoin/src/.WorldAidCoin2/database ErrorFile=/home/kolin182/Documentos/datos_antiguos/datos/trabajo_opentia/Matthew_vertcoin/vertcoin_limpio_100x100/vertcoin/src/.WorldAidCoin2/db.log
+2014-05-05 18:48:34 Unable to bind to [::]:5989 on this computer. WorldAidCoin is probably already running.
+2014-05-05 18:48:34 Unable to bind to 0.0.0.0:5989 on this computer. WorldAidCoin is probably already running.
+2014-05-05 18:48:34 Error: Unable to bind to 0.0.0.0:5989 on this computer. WorldAidCoin is probably already running.
+2014-05-05 18:48:34 Error: Failed to listen on any port. Use -listen=0 if you want this.
+2014-05-05 18:53:47 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-05-05 18:53:47 WorldAidCoin version v0.8.6.3.2-beta (2014-05-05 19:49:50 +0200)
+2014-05-05 18:53:47 Using OpenSSL version OpenSSL 1.0.1 14 Mar 2012
+2014-05-05 18:53:47 Default data directory /home/kolin182/.WorldAidCoin
+2014-05-05 18:53:47 Using data directory /home/kolin182/Documentos/datos_antiguos/datos/trabajo_opentia/Matthew_vertcoin/vertcoin_limpio_100x100/vertcoin/src/.WorldAidCoin2/
+2014-05-05 18:53:47 Using at most 125 connections (1024 file descriptors available)
+2014-05-05 18:53:47 Using 4 threads for script verification
+2014-05-05 18:53:47 init message: Verifying wallet...
+2014-05-05 18:53:47 dbenv.open LogDir=/home/kolin182/Documentos/datos_antiguos/datos/trabajo_opentia/Matthew_vertcoin/vertcoin_limpio_100x100/vertcoin/src/.WorldAidCoin2/database ErrorFile=/home/kolin182/Documentos/datos_antiguos/datos/trabajo_opentia/Matthew_vertcoin/vertcoin_limpio_100x100/vertcoin/src/.WorldAidCoin2/db.log
+2014-05-05 18:53:47 Bound to [::]:19343
+2014-05-05 18:53:47 Bound to 0.0.0.0:19343
+2014-05-05 18:53:47 init message: Loading block index...
+2014-05-05 18:53:47 Opening LevelDB in /home/kolin182/Documentos/datos_antiguos/datos/trabajo_opentia/Matthew_vertcoin/vertcoin_limpio_100x100/vertcoin/src/.WorldAidCoin2/blocks/index
+2014-05-05 18:53:47 Opened LevelDB successfully
+2014-05-05 18:53:47 Opening LevelDB in /home/kolin182/Documentos/datos_antiguos/datos/trabajo_opentia/Matthew_vertcoin/vertcoin_limpio_100x100/vertcoin/src/.WorldAidCoin2/chainstate
+2014-05-05 18:53:47 Opened LevelDB successfully
+2014-05-05 18:53:47 LoadBlockIndexDB(): last block file = 0
+2014-05-05 18:53:47 LoadBlockIndexDB(): transaction index disabled
+2014-05-05 18:53:47 Initializing databases...
+2014-05-05 18:53:47 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-05-05 18:53:47 4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4
+2014-05-05 18:53:47 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7
+2014-05-05 18:53:47 CBlock(hash=4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4, input=010000000000000000000000000000000000000000000000000000000000000000000000e72301fc49323ee151cf1048230f032ca589753ba7086222a5c023e3a08cf34a8b35cf52f0ff0f1e0eba5700, PoW=000005cc425e3c06dd1416866440a70dc9eb4710b2e9c71653c8e197493cbbb9, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, nTime=1389311371, nBits=1e0ffff0, nNonce=5749262, vtx=1)
+2014-05-05 18:53:47   CTransaction(hash=4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 0002e7034130312f30392f32303134204765726d616e7920746f2048656c7020696e20446973706f73616c206f662053797269616e204368656d6963616c20576561706f6e73)
+    CTxOut(error)
+  vMerkleTree: 4af38ca0e323c0a5226208a73b7589a52c030f234810cf51e13e3249fc0123e7 
+2014-05-05 18:53:47 Pre-allocating up to position 0x1000000 in blk00000.dat
+2014-05-05 18:53:47 SetBestChain: new best=4d96a915f49d40b1e5c2844d1ee2dccb90013a990ccea12c492d22110489f0c4  height=0  log2_work=20.000022  tx=1  date=2014-01-09 23:49:31 progress=0.000001
+2014-05-05 18:53:47 init message: Verifying blocks...
+2014-05-05 18:53:47  block index             364ms
+2014-05-05 18:53:47 init message: Loading wallet...
+2014-05-05 18:53:47 nFileVersion = 80602
+2014-05-05 18:53:47 Performing wallet upgrade to 60000
+2014-05-05 18:53:47 keypool added key 1, size=1
+2014-05-05 18:53:48 keypool added key 2, size=2
+2014-05-05 18:53:48 keypool added key 3, size=3
+2014-05-05 18:53:48 keypool added key 4, size=4
+2014-05-05 18:53:48 keypool added key 5, size=5
+2014-05-05 18:53:48 keypool added key 6, size=6
+2014-05-05 18:53:48 keypool added key 7, size=7
+2014-05-05 18:53:48 keypool added key 8, size=8
+2014-05-05 18:53:48 keypool added key 9, size=9
+2014-05-05 18:53:48 keypool added key 10, size=10
+2014-05-05 18:53:48 keypool added key 11, size=11
+2014-05-05 18:53:48 keypool added key 12, size=12
+2014-05-05 18:53:48 keypool added key 13, size=13
+2014-05-05 18:53:48 keypool added key 14, size=14
+2014-05-05 18:53:48 keypool added key 15, size=15
+2014-05-05 18:53:48 keypool added key 16, size=16
+2014-05-05 18:53:48 keypool added key 17, size=17
+2014-05-05 18:53:48 keypool added key 18, size=18
+2014-05-05 18:53:48 keypool added key 19, size=19
+2014-05-05 18:53:48 keypool added key 20, size=20
+2014-05-05 18:53:48 keypool added key 21, size=21
+2014-05-05 18:53:48 keypool added key 22, size=22
+2014-05-05 18:53:49 keypool added key 23, size=23
+2014-05-05 18:53:49 keypool added key 24, size=24
+2014-05-05 18:53:49 keypool added key 25, size=25
+2014-05-05 18:53:49 keypool added key 26, size=26
+2014-05-05 18:53:49 keypool added key 27, size=27
+2014-05-05 18:53:49 keypool added key 28, size=28
+2014-05-05 18:53:49 keypool added key 29, size=29
+2014-05-05 18:53:49 keypool added key 30, size=30
+2014-05-05 18:53:49 keypool added key 31, size=31
+2014-05-05 18:53:49 keypool added key 32, size=32
+2014-05-05 18:53:49 keypool added key 33, size=33
+2014-05-05 18:53:50 keypool added key 34, size=34
+2014-05-05 18:53:50 keypool added key 35, size=35
+2014-05-05 18:53:50 keypool added key 36, size=36
+2014-05-05 18:53:50 keypool added key 37, size=37
+2014-05-05 18:53:50 keypool added key 38, size=38
+2014-05-05 18:53:50 keypool added key 39, size=39
+2014-05-05 18:53:50 keypool added key 40, size=40
+2014-05-05 18:53:50 keypool added key 41, size=41
+2014-05-05 18:53:50 keypool added key 42, size=42
+2014-05-05 18:53:50 keypool added key 43, size=43
+2014-05-05 18:53:50 keypool added key 44, size=44
+2014-05-05 18:53:50 keypool added key 45, size=45
+2014-05-05 18:53:50 keypool added key 46, size=46
+2014-05-05 18:53:50 keypool added key 47, size=47
+2014-05-05 18:53:50 keypool added key 48, size=48
+2014-05-05 18:53:50 keypool added key 49, size=49
+2014-05-05 18:53:50 keypool added key 50, size=50
+2014-05-05 18:53:50 keypool added key 51, size=51
+2014-05-05 18:53:50 keypool added key 52, size=52
+2014-05-05 18:53:50 keypool added key 53, size=53
+2014-05-05 18:53:51 keypool added key 54, size=54
+2014-05-05 18:53:51 keypool added key 55, size=55
+2014-05-05 18:53:51 keypool added key 56, size=56
+2014-05-05 18:53:51 keypool added key 57, size=57
+2014-05-05 18:53:51 keypool added key 58, size=58
+2014-05-05 18:53:51 keypool added key 59, size=59
+2014-05-05 18:53:51 keypool added key 60, size=60
+2014-05-05 18:53:51 keypool added key 61, size=61
+2014-05-05 18:53:51 keypool added key 62, size=62
+2014-05-05 18:53:51 keypool added key 63, size=63
+2014-05-05 18:53:51 keypool added key 64, size=64
+2014-05-05 18:53:52 keypool added key 65, size=65
+2014-05-05 18:53:52 keypool added key 66, size=66
+2014-05-05 18:53:52 keypool added key 67, size=67
+2014-05-05 18:53:52 keypool added key 68, size=68
+2014-05-05 18:53:52 keypool added key 69, size=69
+2014-05-05 18:53:52 keypool added key 70, size=70
+2014-05-05 18:53:52 keypool added key 71, size=71
+2014-05-05 18:53:52 keypool added key 72, size=72
+2014-05-05 18:53:52 keypool added key 73, size=73
+2014-05-05 18:53:52 keypool added key 74, size=74
+2014-05-05 18:53:52 keypool added key 75, size=75
+2014-05-05 18:53:52 keypool added key 76, size=76
+2014-05-05 18:53:52 keypool added key 77, size=77
+2014-05-05 18:53:52 keypool added key 78, size=78
+2014-05-05 18:53:53 keypool added key 79, size=79
+2014-05-05 18:53:53 keypool added key 80, size=80
+2014-05-05 18:53:53 keypool added key 81, size=81
+2014-05-05 18:53:53 keypool added key 82, size=82
+2014-05-05 18:53:53 keypool added key 83, size=83
+2014-05-05 18:53:53 keypool added key 84, size=84
+2014-05-05 18:53:53 keypool added key 85, size=85
+2014-05-05 18:53:53 keypool added key 86, size=86
+2014-05-05 18:53:53 keypool added key 87, size=87
+2014-05-05 18:53:53 keypool added key 88, size=88
+2014-05-05 18:53:53 keypool added key 89, size=89
+2014-05-05 18:53:53 keypool added key 90, size=90
+2014-05-05 18:53:53 keypool added key 91, size=91
+2014-05-05 18:53:53 keypool added key 92, size=92
+2014-05-05 18:53:53 keypool added key 93, size=93
+2014-05-05 18:53:53 keypool added key 94, size=94
+2014-05-05 18:53:53 keypool added key 95, size=95
+2014-05-05 18:53:53 keypool added key 96, size=96
+2014-05-05 18:53:53 keypool added key 97, size=97
+2014-05-05 18:53:54 keypool added key 98, size=98
+2014-05-05 18:53:54 keypool added key 99, size=99
+2014-05-05 18:53:54 keypool added key 100, size=100
+2014-05-05 18:53:54 keypool added key 101, size=101
+2014-05-05 18:53:54 keypool reserve 1
+2014-05-05 18:53:54 keypool keep 1
+2014-05-05 18:53:54  wallet                 7056ms
+2014-05-05 18:53:54 init message: Loading addresses...
+2014-05-05 18:53:54 ERROR: CAddrman::Read() : open failed
+2014-05-05 18:53:54 Invalid or missing peers.dat; recreating
+2014-05-05 18:53:54 Loaded 0 addresses from peers.dat  0ms
+2014-05-05 18:53:54 mapBlockIndex.size() = 1
+2014-05-05 18:53:54 nBestHeight = 0
+2014-05-05 18:53:54 setKeyPool.size() = 100
+2014-05-05 18:53:54 mapWallet.size() = 0
+2014-05-05 18:53:54 mapAddressBook.size() = 1
+2014-05-05 18:53:54 DNS seeding disabled
+2014-05-05 18:53:54 net thread start
+2014-05-05 18:53:54 opencon thread start
+2014-05-05 18:53:54 trying connection 127.0.0.1:5989 lastseen=0.0hrs
+2014-05-05 18:53:54 msghand thread start
+2014-05-05 18:53:54 connected 127.0.0.1:5989
+2014-05-05 18:53:54 send version message: version 70002, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:5989
+2014-05-05 18:53:54 sending: version (102 bytes)
+2014-05-05 18:53:54 addcon thread start
+2014-05-05 18:53:54 dumpaddr thread start
+2014-05-05 18:53:54 WorldAidCoinMiner started
+2014-05-05 18:53:54 WorldAidCoinMiner started
+2014-05-05 18:53:54 init message: Done loading
+2014-05-05 18:53:54 WorldAidCoinMiner started
+2014-05-05 18:53:54 WorldAidCoinMiner started
+2014-05-05 18:53:54 keypool added key 102, size=101
+2014-05-05 18:53:54 keypool reserve 2
+2014-05-05 18:53:54 CreateNewBlock(): total size 1000
+2014-05-05 18:53:54 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:53:54 keypool added key 103, size=101
+2014-05-05 18:53:54 received: version (102 bytes)
+2014-05-05 18:53:54 Added time data, samples 2, offset +0 (+0 minutes)
+2014-05-05 18:53:54 sending: verack (0 bytes)
+2014-05-05 18:53:54 sending: getaddr (0 bytes)
+2014-05-05 18:53:54 receive version message: /Satoshi:0.8.6.2/: version 70002, blocks=0, us=0.0.0.0:0, them=83.231.120.183:5989, peer=127.0.0.1:5989
+2014-05-05 18:53:54 received: verack (0 bytes)
+2014-05-05 18:53:54 sending: getblocks (101 bytes)
+2014-05-05 18:53:54 keypool reserve 3
+2014-05-05 18:53:54 CreateNewBlock(): total size 1000
+2014-05-05 18:53:54 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:53:54 keypool added key 104, size=101
+2014-05-05 18:53:54 received: getblocks (101 bytes)
+2014-05-05 18:53:54 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-05-05 18:53:54 received: addr (91 bytes)
+2014-05-05 18:53:54 keypool reserve 4
+2014-05-05 18:53:54 CreateNewBlock(): total size 1000
+2014-05-05 18:53:54 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:53:55 keypool added key 105, size=101
+2014-05-05 18:53:55 keypool reserve 5
+2014-05-05 18:53:55 CreateNewBlock(): total size 1000
+2014-05-05 18:53:55 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:53:55 GetMyExternalIP() received [83.231.120.183] 83.231.120.183:0
+2014-05-05 18:53:55 GetMyExternalIP() returned 83.231.120.183
+2014-05-05 18:53:55 AddLocal(83.231.120.183:19343,4)
+2014-05-05 18:53:55 sending: addr (31 bytes)
+2014-05-05 18:53:57 Flushing wallet.dat
+2014-05-05 18:53:57 Flushed wallet.dat 52ms
+2014-05-05 18:53:59 hashmeter      1 khash/s
+2014-05-05 18:54:33 received: inv (37 bytes)
+2014-05-05 18:54:33   got inventory: block 4637149525ee63720bc26381573ce751c07b7a17547e4b54e25e88f0491ba49e  new
+2014-05-05 18:54:33 askfor block 4637149525ee63720bc26381573ce751c07b7a17547e4b54e25e88f0491ba49e   0 (00:00:00)
+2014-05-05 18:54:33 sending getdata: block 4637149525ee63720bc26381573ce751c07b7a17547e4b54e25e88f0491ba49e
+2014-05-05 18:54:33 sending: getdata (37 bytes)
+2014-05-05 18:54:33 received: block (195 bytes)
+2014-05-05 18:54:33 received block 4637149525ee63720bc26381573ce751c07b7a17547e4b54e25e88f0491ba49e
+2014-05-05 18:54:33 Pre-allocating up to position 0x100000 in rev00000.dat
+2014-05-05 18:54:33 SetBestChain: new best=4637149525ee63720bc26381573ce751c07b7a17547e4b54e25e88f0491ba49e  height=1  log2_work=21.000022  tx=2  date=2014-05-05 18:54:33 progress=0.000001
+2014-05-05 18:54:33 ProcessBlock: ACCEPTED
+2014-05-05 18:54:33 CreateNewBlock(): total size 1000
+2014-05-05 18:54:33 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:54:33 CreateNewBlock(): total size 1000
+2014-05-05 18:54:33 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:54:34 CreateNewBlock(): total size 1000
+2014-05-05 18:54:34 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:54:35 CreateNewBlock(): total size 1000
+2014-05-05 18:54:35 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:56:09 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 18:56:09 proof-of-work found  
+  hash: 0000019151de2fdd42df5851e210bef6d1476f646d8f0ee02cd2ce6d32a0555b  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 18:56:09 CBlock(hash=8758819fc79d38095576296b075a0631deacc3ef59a96536eba2d2b39ae3c402, input=020000009ea41b49f0885ee2544b7e54177a7bc051e73c578163c20b7263ee2595143746dbea1d4d195e7e71725ff61de6ab86fc61deaaca339d53028ee0b34d653504e5c9de6753f0ff0f1e29b10000, PoW=0000019151de2fdd42df5851e210bef6d1476f646d8f0ee02cd2ce6d32a0555b, ver=2, hashPrevBlock=4637149525ee63720bc26381573ce751c07b7a17547e4b54e25e88f0491ba49e, hashMerkleRoot=e50435654db3e08e02539d33caaade61fc86abe61df65f72717e5e194d1deadb, nTime=1399316169, nBits=1e0ffff0, nNonce=45353, vtx=1)
+2014-05-05 18:56:09   CTransaction(hash=e50435654db3e08e02539d33caaade61fc86abe61df65f72717e5e194d1deadb, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 520102062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=026c8464c2ac3dd9741e5210f3a48e)
+    CTxOut(error)
+  vMerkleTree: e50435654db3e08e02539d33caaade61fc86abe61df65f72717e5e194d1deadb 
+2014-05-05 18:56:09 generated 25.00
+2014-05-05 18:56:09 keypool keep 4
+2014-05-05 18:56:09 AddToWallet e50435654db3e08e02539d33caaade61fc86abe61df65f72717e5e194d1deadb  new
+2014-05-05 18:56:09 SetBestChain: new best=8758819fc79d38095576296b075a0631deacc3ef59a96536eba2d2b39ae3c402  height=2  log2_work=21.584985  tx=3  date=2014-05-05 18:56:09 progress=0.000002
+2014-05-05 18:56:09 ProcessBlock: ACCEPTED
+2014-05-05 18:56:09 CreateNewBlock(): total size 1000
+2014-05-05 18:56:09 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:56:09 keypool added key 106, size=101
+2014-05-05 18:56:09 sending: inv (37 bytes)
+2014-05-05 18:56:09 keypool reserve 6
+2014-05-05 18:56:09 CreateNewBlock(): total size 1000
+2014-05-05 18:56:09 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:56:09 CreateNewBlock(): total size 1000
+2014-05-05 18:56:09 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:56:09 received: getdata (37 bytes)
+2014-05-05 18:56:09 received getdata (1 invsz)
+2014-05-05 18:56:09 received getdata for: block 8758819fc79d38095576296b075a0631deacc3ef59a96536eba2d2b39ae3c402
+2014-05-05 18:56:09 sending: block (195 bytes)
+2014-05-05 18:56:09 CreateNewBlock(): total size 1000
+2014-05-05 18:56:09 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:56:11 Flushing wallet.dat
+2014-05-05 18:56:11 Flushed wallet.dat 127ms
+2014-05-05 18:57:33 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 18:57:33 proof-of-work found  
+  hash: 0000075702b71cc212252df86e4117b557f8e484b67884f95acb2104d3e68bf1  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 18:57:33 CBlock(hash=803a8475c647964b0771c647338d36f40da97b3e87700917287e38c2fb6fd3dd, input=0200000002c4e39ab3d2a2eb3665a959efc3acde31065a076b29765509389dc79f8158878a64b6db2fe25d81b0ea38e01cf30c08199dab08758ef0ffd613c454b74ce99d1ddf6753f0ff0f1e927d0000, PoW=0000075702b71cc212252df86e4117b557f8e484b67884f95acb2104d3e68bf1, ver=2, hashPrevBlock=8758819fc79d38095576296b075a0631deacc3ef59a96536eba2d2b39ae3c402, hashMerkleRoot=9de94cb754c413d6fff08e7508ab9d19080cf31ce038eab0815de22fdbb6648a, nTime=1399316253, nBits=1e0ffff0, nNonce=32146, vtx=1)
+2014-05-05 18:57:33   CTransaction(hash=9de94cb754c413d6fff08e7508ab9d19080cf31ce038eab0815de22fdbb6648a, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 530103062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=02c31d977ad143eef539a7233373b8)
+    CTxOut(error)
+  vMerkleTree: 9de94cb754c413d6fff08e7508ab9d19080cf31ce038eab0815de22fdbb6648a 
+2014-05-05 18:57:33 generated 25.00
+2014-05-05 18:57:33 keypool keep 6
+2014-05-05 18:57:33 AddToWallet 9de94cb754c413d6fff08e7508ab9d19080cf31ce038eab0815de22fdbb6648a  new
+2014-05-05 18:57:34 SetBestChain: new best=803a8475c647964b0771c647338d36f40da97b3e87700917287e38c2fb6fd3dd  height=3  log2_work=22.000022  tx=4  date=2014-05-05 18:57:33 progress=0.000002
+2014-05-05 18:57:34 ProcessBlock: ACCEPTED
+2014-05-05 18:57:34 CreateNewBlock(): total size 1000
+2014-05-05 18:57:34 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:57:34 sending: inv (37 bytes)
+2014-05-05 18:57:34 keypool added key 107, size=101
+2014-05-05 18:57:34 keypool reserve 7
+2014-05-05 18:57:34 CreateNewBlock(): total size 1000
+2014-05-05 18:57:34 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:57:34 received: getdata (37 bytes)
+2014-05-05 18:57:34 received getdata (1 invsz)
+2014-05-05 18:57:34 received getdata for: block 803a8475c647964b0771c647338d36f40da97b3e87700917287e38c2fb6fd3dd
+2014-05-05 18:57:34 sending: block (195 bytes)
+2014-05-05 18:57:34 CreateNewBlock(): total size 1000
+2014-05-05 18:57:34 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:57:34 CreateNewBlock(): total size 1000
+2014-05-05 18:57:34 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 18:57:36 Flushing wallet.dat
+2014-05-05 18:57:36 Flushed wallet.dat 53ms
+2014-05-05 19:00:27 received: inv (37 bytes)
+2014-05-05 19:00:27   got inventory: block 58c5fc08b967bed5bb09c05249300c1800be8cf7bb30b00486f3d0a4c3fa6cfe  new
+2014-05-05 19:00:27 askfor block 58c5fc08b967bed5bb09c05249300c1800be8cf7bb30b00486f3d0a4c3fa6cfe   0 (00:00:00)
+2014-05-05 19:00:27 sending getdata: block 58c5fc08b967bed5bb09c05249300c1800be8cf7bb30b00486f3d0a4c3fa6cfe
+2014-05-05 19:00:27 sending: getdata (37 bytes)
+2014-05-05 19:00:27 received: block (195 bytes)
+2014-05-05 19:00:27 received block 58c5fc08b967bed5bb09c05249300c1800be8cf7bb30b00486f3d0a4c3fa6cfe
+2014-05-05 19:00:27 SetBestChain: new best=58c5fc08b967bed5bb09c05249300c1800be8cf7bb30b00486f3d0a4c3fa6cfe  height=4  log2_work=22.32195  tx=5  date=2014-05-05 19:00:26 progress=0.000003
+2014-05-05 19:00:27 ProcessBlock: ACCEPTED
+2014-05-05 19:00:27 CreateNewBlock(): total size 1000
+2014-05-05 19:00:27 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:00:27 CreateNewBlock(): total size 1000
+2014-05-05 19:00:27 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:00:28 CreateNewBlock(): total size 1000
+2014-05-05 19:00:28 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:00:28 CreateNewBlock(): total size 1000
+2014-05-05 19:00:28 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:02:28 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 19:02:28 proof-of-work found  
+  hash: 00000d006869f1938ede6006cb06c2d86997ad009ed106579179d20f7046ca9a  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 19:02:28 CBlock(hash=a065d8ba9a74272686dc2699788ce4485bab08fd995e7ab2ba0b190dbe4386f5, input=02000000fe6cfac3a4d0f38604b030bbf78cbe00180c304952c009bbd5be67b908fcc5583d0b00d9f97fdd21ccf08e3700b38ef913661a79a2256762698e52db80c5872444e06753f0ff0f1ef2d20000, PoW=00000d006869f1938ede6006cb06c2d86997ad009ed106579179d20f7046ca9a, ver=2, hashPrevBlock=58c5fc08b967bed5bb09c05249300c1800be8cf7bb30b00486f3d0a4c3fa6cfe, hashMerkleRoot=2487c580db528e69626725a2791a6613f98eb300378ef0cc21dd7ff9d9000b3d, nTime=1399316548, nBits=1e0ffff0, nNonce=54002, vtx=1)
+2014-05-05 19:02:28   CTransaction(hash=2487c580db528e69626725a2791a6613f98eb300378ef0cc21dd7ff9d9000b3d, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 550102062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=03cfe0482cb5dc73c28281b8939e38)
+    CTxOut(error)
+  vMerkleTree: 2487c580db528e69626725a2791a6613f98eb300378ef0cc21dd7ff9d9000b3d 
+2014-05-05 19:02:28 generated 25.00
+2014-05-05 19:02:29 keypool keep 2
+2014-05-05 19:02:29 AddToWallet 2487c580db528e69626725a2791a6613f98eb300378ef0cc21dd7ff9d9000b3d  new
+2014-05-05 19:02:29 SetBestChain: new best=a065d8ba9a74272686dc2699788ce4485bab08fd995e7ab2ba0b190dbe4386f5  height=5  log2_work=22.584985  tx=6  date=2014-05-05 19:02:28 progress=0.000004
+2014-05-05 19:02:29 ProcessBlock: ACCEPTED
+2014-05-05 19:02:29 sending: inv (37 bytes)
+2014-05-05 19:02:29 keypool added key 108, size=101
+2014-05-05 19:02:29 keypool reserve 8
+2014-05-05 19:02:29 CreateNewBlock(): total size 1000
+2014-05-05 19:02:29 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:02:29 received: getdata (37 bytes)
+2014-05-05 19:02:29 received getdata (1 invsz)
+2014-05-05 19:02:29 received getdata for: block a065d8ba9a74272686dc2699788ce4485bab08fd995e7ab2ba0b190dbe4386f5
+2014-05-05 19:02:29 sending: block (195 bytes)
+2014-05-05 19:02:29 CreateNewBlock(): total size 1000
+2014-05-05 19:02:29 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:02:29 CreateNewBlock(): total size 1000
+2014-05-05 19:02:29 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:02:29 CreateNewBlock(): total size 1000
+2014-05-05 19:02:29 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:02:31 Flushing wallet.dat
+2014-05-05 19:02:31 Flushed wallet.dat 90ms
+2014-05-05 19:06:54 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 19:06:54 proof-of-work found  
+  hash: 000000a07a2f016a8f985b77c5d7a0f700a10727f6a8169865d144160bc8d736  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 19:06:55 CBlock(hash=9b7df9fe34d5710588488beccc3b5941a14128657fa9ce13881fd457fe8d7e4f, input=02000000f58643be0d190bbab27a5e99fd08ab5b48e48c789926dc862627749abad865a0d66c028b36edb2c0b1d7a7af040865377a45989e75ad21ebcc8e01e97ebf42424de16753f0ff0f1ed2310200, PoW=000000a07a2f016a8f985b77c5d7a0f700a10727f6a8169865d144160bc8d736, ver=2, hashPrevBlock=a065d8ba9a74272686dc2699788ce4485bab08fd995e7ab2ba0b190dbe4386f5, hashMerkleRoot=4242bf7ee9018ecceb21ad759e98457a37650804afa7d7b1c0b2ed368b026cd6, nTime=1399316813, nBits=1e0ffff0, nNonce=143826, vtx=1)
+2014-05-05 19:06:55   CTransaction(hash=4242bf7ee9018ecceb21ad759e98457a37650804afa7d7b1c0b2ed368b026cd6, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 560101062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=03ee54338ee99a1bfa6bc7543bcf0e)
+    CTxOut(error)
+  vMerkleTree: 4242bf7ee9018ecceb21ad759e98457a37650804afa7d7b1c0b2ed368b026cd6 
+2014-05-05 19:06:55 generated 25.00
+2014-05-05 19:06:55 keypool keep 8
+2014-05-05 19:06:55 AddToWallet 4242bf7ee9018ecceb21ad759e98457a37650804afa7d7b1c0b2ed368b026cd6  new
+2014-05-05 19:06:55 SetBestChain: new best=9b7df9fe34d5710588488beccc3b5941a14128657fa9ce13881fd457fe8d7e4f  height=6  log2_work=22.807377  tx=7  date=2014-05-05 19:06:53 progress=0.000004
+2014-05-05 19:06:55 ProcessBlock: ACCEPTED
+2014-05-05 19:06:55 keypool added key 109, size=101
+2014-05-05 19:06:55 sending: inv (37 bytes)
+2014-05-05 19:06:55 keypool reserve 9
+2014-05-05 19:06:55 CreateNewBlock(): total size 1000
+2014-05-05 19:06:55 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:06:55 CreateNewBlock(): total size 1000
+2014-05-05 19:06:55 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:06:55 received: getdata (37 bytes)
+2014-05-05 19:06:55 received getdata (1 invsz)
+2014-05-05 19:06:55 received getdata for: block 9b7df9fe34d5710588488beccc3b5941a14128657fa9ce13881fd457fe8d7e4f
+2014-05-05 19:06:55 sending: block (195 bytes)
+2014-05-05 19:06:55 CreateNewBlock(): total size 1000
+2014-05-05 19:06:55 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:06:55 CreateNewBlock(): total size 1000
+2014-05-05 19:06:55 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:06:57 Flushing wallet.dat
+2014-05-05 19:06:57 Flushed wallet.dat 60ms
+2014-05-05 19:07:07 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 19:07:07 proof-of-work found  
+  hash: 00000c1e002550f2340c9c71308c1f36e9e794dedac4ea263cdd666335492771  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 19:07:07 CBlock(hash=45ae9971b59c657ab448e192d39285fc9be92ebbf8a0d8f4abf9247d460c623b, input=020000004f7e8dfe57d41f8813cea97f652841a141593bccec8b48880571d534fef97d9baddd8a285a80dd7f5d363899f9a3c8fc387c47b9d9b4c07aa49926d42b50fe035be16753f0ff0f1ed31c0000, PoW=00000c1e002550f2340c9c71308c1f36e9e794dedac4ea263cdd666335492771, ver=2, hashPrevBlock=9b7df9fe34d5710588488beccc3b5941a14128657fa9ce13881fd457fe8d7e4f, hashMerkleRoot=03fe502bd42699a47ac0b4d9b9477c38fcc8a3f99938365d7fdd805a288addad, nTime=1399316827, nBits=1e0ffff0, nNonce=7379, vtx=1)
+2014-05-05 19:07:07   CTransaction(hash=03fe502bd42699a47ac0b4d9b9477c38fcc8a3f99938365d7fdd805a288addad, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 570107062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=029e52e18d30b71ec979062f47b61f)
+    CTxOut(error)
+  vMerkleTree: 03fe502bd42699a47ac0b4d9b9477c38fcc8a3f99938365d7fdd805a288addad 
+2014-05-05 19:07:07 generated 25.00
+2014-05-05 19:07:07 keypool keep 5
+2014-05-05 19:07:07 AddToWallet 03fe502bd42699a47ac0b4d9b9477c38fcc8a3f99938365d7fdd805a288addad  new
+2014-05-05 19:07:07 SetBestChain: new best=45ae9971b59c657ab448e192d39285fc9be92ebbf8a0d8f4abf9247d460c623b  height=7  log2_work=23.000022  tx=8  date=2014-05-05 19:07:07 progress=0.000005
+2014-05-05 19:07:07 ProcessBlock: ACCEPTED
+2014-05-05 19:07:07 sending: inv (37 bytes)
+2014-05-05 19:07:07 keypool added key 110, size=101
+2014-05-05 19:07:07 keypool reserve 10
+2014-05-05 19:07:07 CreateNewBlock(): total size 1000
+2014-05-05 19:07:07 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:07:07 received: getdata (37 bytes)
+2014-05-05 19:07:07 received getdata (1 invsz)
+2014-05-05 19:07:07 received getdata for: block 45ae9971b59c657ab448e192d39285fc9be92ebbf8a0d8f4abf9247d460c623b
+2014-05-05 19:07:07 sending: block (195 bytes)
+2014-05-05 19:07:07 CreateNewBlock(): total size 1000
+2014-05-05 19:07:07 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:07:08 CreateNewBlock(): total size 1000
+2014-05-05 19:07:08 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:07:08 CreateNewBlock(): total size 1000
+2014-05-05 19:07:08 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:07:09 Flushing wallet.dat
+2014-05-05 19:07:09 Flushed wallet.dat 60ms
+2014-05-05 19:08:54 Flushed 0 addresses to peers.dat  46ms
+2014-05-05 19:14:33 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 19:14:33 proof-of-work found  
+  hash: 00000d73e386b3a2295c91edc2c25a9b33457b0ccc92a6fb76ea1d3e654a1cca  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 19:14:33 CBlock(hash=ee5cdea7074e6f71791f59e653e17bc7a4ff7d501bffb74c05106d215d2f29ca, input=020000003b620c467d24f9abf4d8a0f8bb2ee99bfc8592d392e148b47a659cb57199ae457b8608ce1847e37199e65cf3e4024a7f087662ef52d933d78c064fb27b2a5d6e19e36753f0ff0f1e29170300, PoW=00000d73e386b3a2295c91edc2c25a9b33457b0ccc92a6fb76ea1d3e654a1cca, ver=2, hashPrevBlock=45ae9971b59c657ab448e192d39285fc9be92ebbf8a0d8f4abf9247d460c623b, hashMerkleRoot=6e5d2a7bb24f068cd733d952ef6276087f4a02e4f35ce69971e34718ce08867b, nTime=1399317273, nBits=1e0ffff0, nNonce=202537, vtx=1)
+2014-05-05 19:14:33   CTransaction(hash=6e5d2a7bb24f068cd733d952ef6276087f4a02e4f35ce69971e34718ce08867b, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 580104062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=03611d854a1874cd13e39618cffbb6)
+    CTxOut(error)
+  vMerkleTree: 6e5d2a7bb24f068cd733d952ef6276087f4a02e4f35ce69971e34718ce08867b 
+2014-05-05 19:14:33 generated 25.00
+2014-05-05 19:14:33 keypool keep 3
+2014-05-05 19:14:33 AddToWallet 6e5d2a7bb24f068cd733d952ef6276087f4a02e4f35ce69971e34718ce08867b  new
+2014-05-05 19:14:33 SetBestChain: new best=ee5cdea7074e6f71791f59e653e17bc7a4ff7d501bffb74c05106d215d2f29ca  height=8  log2_work=23.169947  tx=9  date=2014-05-05 19:14:33 progress=0.000005
+2014-05-05 19:14:33 ProcessBlock: ACCEPTED
+2014-05-05 19:14:33 keypool added key 111, size=101
+2014-05-05 19:14:33 sending: inv (37 bytes)
+2014-05-05 19:14:33 keypool reserve 11
+2014-05-05 19:14:33 CreateNewBlock(): total size 1000
+2014-05-05 19:14:33 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:14:33 received: getdata (37 bytes)
+2014-05-05 19:14:33 received getdata (1 invsz)
+2014-05-05 19:14:33 received getdata for: block ee5cdea7074e6f71791f59e653e17bc7a4ff7d501bffb74c05106d215d2f29ca
+2014-05-05 19:14:33 sending: block (195 bytes)
+2014-05-05 19:14:33 CreateNewBlock(): total size 1000
+2014-05-05 19:14:33 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:14:34 CreateNewBlock(): total size 1000
+2014-05-05 19:14:34 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:14:34 CreateNewBlock(): total size 1000
+2014-05-05 19:14:34 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:14:35 Flushing wallet.dat
+2014-05-05 19:14:35 Flushed wallet.dat 67ms
+2014-05-05 19:17:13 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 19:17:13 proof-of-work found  
+  hash: 000003e25884458a79f7f3b65bee2dd75bfde91d4c20697bce5e31e90b92b6d7  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 19:17:13 CBlock(hash=b04c64d9bd3981e082bbe7d60cf54a0c5cc700c5326a651ada3288da1bcb5545, input=02000000ca292f5d216d10054cb7ff1b507dffa4c77be153e6591f79716f4e07a7de5ceef750295c442b18dc4d7115f36ac11860fc611400f1fab265b8b4045314d395ccb9e36753f0ff0f1eb93a0100, PoW=000003e25884458a79f7f3b65bee2dd75bfde91d4c20697bce5e31e90b92b6d7, ver=2, hashPrevBlock=ee5cdea7074e6f71791f59e653e17bc7a4ff7d501bffb74c05106d215d2f29ca, hashMerkleRoot=cc95d3145304b4b865b2faf1001461fc6018c16af315714ddc182b445c2950f7, nTime=1399317433, nBits=1e0ffff0, nNonce=80569, vtx=1)
+2014-05-05 19:17:13   CTransaction(hash=cc95d3145304b4b865b2faf1001461fc6018c16af315714ddc182b445c2950f7, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 590109062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=03b8f2b6cbcc24c428a3d91b9e9cac)
+    CTxOut(error)
+  vMerkleTree: cc95d3145304b4b865b2faf1001461fc6018c16af315714ddc182b445c2950f7 
+2014-05-05 19:17:13 generated 25.00
+2014-05-05 19:17:13 keypool keep 7
+2014-05-05 19:17:13 AddToWallet cc95d3145304b4b865b2faf1001461fc6018c16af315714ddc182b445c2950f7  new
+2014-05-05 19:17:13 SetBestChain: new best=b04c64d9bd3981e082bbe7d60cf54a0c5cc700c5326a651ada3288da1bcb5545  height=9  log2_work=23.32195  tx=10  date=2014-05-05 19:17:13 progress=0.000006
+2014-05-05 19:17:13 ProcessBlock: ACCEPTED
+2014-05-05 19:17:13 sending: inv (37 bytes)
+2014-05-05 19:17:13 received: getdata (37 bytes)
+2014-05-05 19:17:13 received getdata (1 invsz)
+2014-05-05 19:17:13 received getdata for: block b04c64d9bd3981e082bbe7d60cf54a0c5cc700c5326a651ada3288da1bcb5545
+2014-05-05 19:17:13 sending: block (195 bytes)
+2014-05-05 19:17:13 keypool added key 112, size=101
+2014-05-05 19:17:13 keypool reserve 12
+2014-05-05 19:17:13 CreateNewBlock(): total size 1000
+2014-05-05 19:17:13 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:17:13 CreateNewBlock(): total size 1000
+2014-05-05 19:17:13 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:17:13 CreateNewBlock(): total size 1000
+2014-05-05 19:17:13 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:17:13 CreateNewBlock(): total size 1000
+2014-05-05 19:17:13 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:17:15 Flushing wallet.dat
+2014-05-05 19:17:15 Flushed wallet.dat 63ms
+2014-05-05 19:23:31 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 19:23:31 proof-of-work found  
+  hash: 000007a43dd8264aa7d34ec08a052830b6d8cc0f877c8ce741ecc545bef0ad31  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 19:23:31 CBlock(hash=39fae8135e8f7db6c82db86947897031ccba76def0c8f9120aa3921d79160ca0, input=020000004555cb1bda8832da1a656a32c500c75c0c4af50cd6e7bb82e08139bdd9644cb0ac6a809b085f7ff376cb858126d9a53f9cad3cccd2810b9080ca203d85d2e58b32e56753f0ff0f1e20c80200, PoW=000007a43dd8264aa7d34ec08a052830b6d8cc0f877c8ce741ecc545bef0ad31, ver=2, hashPrevBlock=b04c64d9bd3981e082bbe7d60cf54a0c5cc700c5326a651ada3288da1bcb5545, hashMerkleRoot=8be5d2853d20ca80900b81d2cc3cad9c3fa5d9268185cb76f37f5f089b806aac, nTime=1399317810, nBits=1e0ffff0, nNonce=182304, vtx=1)
+2014-05-05 19:23:31   CTransaction(hash=8be5d2853d20ca80900b81d2cc3cad9c3fa5d9268185cb76f37f5f089b806aac, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 5a010a062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=034e3310c47851301c3b8a17a0bd35)
+    CTxOut(error)
+  vMerkleTree: 8be5d2853d20ca80900b81d2cc3cad9c3fa5d9268185cb76f37f5f089b806aac 
+2014-05-05 19:23:31 generated 25.00
+2014-05-05 19:23:31 keypool keep 12
+2014-05-05 19:23:31 AddToWallet 8be5d2853d20ca80900b81d2cc3cad9c3fa5d9268185cb76f37f5f089b806aac  new
+2014-05-05 19:23:31 SetBestChain: new best=39fae8135e8f7db6c82db86947897031ccba76def0c8f9120aa3921d79160ca0  height=10  log2_work=23.459454  tx=11  date=2014-05-05 19:23:30 progress=0.000007
+2014-05-05 19:23:31 ProcessBlock: ACCEPTED
+2014-05-05 19:23:31 sending: inv (37 bytes)
+2014-05-05 19:23:31 keypool added key 113, size=101
+2014-05-05 19:23:31 keypool reserve 13
+2014-05-05 19:23:31 CreateNewBlock(): total size 1000
+2014-05-05 19:23:31 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:23:31 received: getdata (37 bytes)
+2014-05-05 19:23:31 received getdata (1 invsz)
+2014-05-05 19:23:31 received getdata for: block 39fae8135e8f7db6c82db86947897031ccba76def0c8f9120aa3921d79160ca0
+2014-05-05 19:23:31 sending: block (195 bytes)
+2014-05-05 19:23:31 CreateNewBlock(): total size 1000
+2014-05-05 19:23:31 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:23:31 CreateNewBlock(): total size 1000
+2014-05-05 19:23:31 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:23:31 CreateNewBlock(): total size 1000
+2014-05-05 19:23:31 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:23:33 Flushing wallet.dat
+2014-05-05 19:23:33 Flushed wallet.dat 76ms
+2014-05-05 19:23:54 Flushed 0 addresses to peers.dat  36ms
+2014-05-05 19:24:02 hashmeter      1 khash/s
+2014-05-05 19:28:36 received: inv (37 bytes)
+2014-05-05 19:28:36   got inventory: block 665055d8bfe24af89f38f47ccb46dfaff5b8b4f26428e5d266f31d178b29503c  new
+2014-05-05 19:28:36 askfor block 665055d8bfe24af89f38f47ccb46dfaff5b8b4f26428e5d266f31d178b29503c   0 (00:00:00)
+2014-05-05 19:28:36 sending getdata: block 665055d8bfe24af89f38f47ccb46dfaff5b8b4f26428e5d266f31d178b29503c
+2014-05-05 19:28:36 sending: getdata (37 bytes)
+2014-05-05 19:28:36 received: block (195 bytes)
+2014-05-05 19:28:36 received block 665055d8bfe24af89f38f47ccb46dfaff5b8b4f26428e5d266f31d178b29503c
+2014-05-05 19:28:36 SetBestChain: new best=665055d8bfe24af89f38f47ccb46dfaff5b8b4f26428e5d266f31d178b29503c  height=11  log2_work=23.584985  tx=12  date=2014-05-05 19:28:35 progress=0.000007
+2014-05-05 19:28:36 ProcessBlock: ACCEPTED
+2014-05-05 19:28:36 CreateNewBlock(): total size 1000
+2014-05-05 19:28:36 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:28:36 CreateNewBlock(): total size 1000
+2014-05-05 19:28:36 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:28:36 CreateNewBlock(): total size 1000
+2014-05-05 19:28:36 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:28:37 CreateNewBlock(): total size 1000
+2014-05-05 19:28:37 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:28:46 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 19:28:46 proof-of-work found  
+  hash: 0000020b984eb589193d79298b7d2f7be7d59d7e7e9160a8a201ba2319888165  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 19:28:46 CBlock(hash=ceff4b73c2567f9896ef23456b2d587aa8c3f28760333e81a2691a38c6e02b7c, input=020000003c50298b171df366d2e52864f2b4b8f5afdf46cb7cf4389ff84ae2bfd8555066d2ce1f58d244f814082d977d234408c497cc6b8e9e3fa0cb003bcbf0471847706ee66753f0ff0f1e46090000, PoW=0000020b984eb589193d79298b7d2f7be7d59d7e7e9160a8a201ba2319888165, ver=2, hashPrevBlock=665055d8bfe24af89f38f47ccb46dfaff5b8b4f26428e5d266f31d178b29503c, hashMerkleRoot=70471847f0cb3b00cba03f9e8e6bcc97c40844237d972d0814f844d2581fced2, nTime=1399318126, nBits=1e0ffff0, nNonce=2374, vtx=1)
+2014-05-05 19:28:46   CTransaction(hash=70471847f0cb3b00cba03f9e8e6bcc97c40844237d972d0814f844d2581fced2, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 5c0102062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=036f2a1c599f5343edc80e1d306bf3)
+    CTxOut(error)
+  vMerkleTree: 70471847f0cb3b00cba03f9e8e6bcc97c40844237d972d0814f844d2581fced2 
+2014-05-05 19:28:46 generated 25.00
+2014-05-05 19:28:46 keypool keep 13
+2014-05-05 19:28:46 AddToWallet 70471847f0cb3b00cba03f9e8e6bcc97c40844237d972d0814f844d2581fced2  new
+2014-05-05 19:28:46 SetBestChain: new best=ceff4b73c2567f9896ef23456b2d587aa8c3f28760333e81a2691a38c6e02b7c  height=12  log2_work=23.700462  tx=13  date=2014-05-05 19:28:46 progress=0.000008
+2014-05-05 19:28:46 ProcessBlock: ACCEPTED
+2014-05-05 19:28:46 keypool added key 114, size=101
+2014-05-05 19:28:46 sending: inv (37 bytes)
+2014-05-05 19:28:46 CreateNewBlock(): total size 1000
+2014-05-05 19:28:46 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:28:46 keypool reserve 14
+2014-05-05 19:28:46 CreateNewBlock(): total size 1000
+2014-05-05 19:28:46 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:28:46 CreateNewBlock(): total size 1000
+2014-05-05 19:28:46 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:28:46 CreateNewBlock(): total size 1000
+2014-05-05 19:28:46 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:28:46 received: getdata (37 bytes)
+2014-05-05 19:28:46 received getdata (1 invsz)
+2014-05-05 19:28:46 received getdata for: block ceff4b73c2567f9896ef23456b2d587aa8c3f28760333e81a2691a38c6e02b7c
+2014-05-05 19:28:46 sending: block (195 bytes)
+2014-05-05 19:28:48 Flushing wallet.dat
+2014-05-05 19:28:48 Flushed wallet.dat 478ms
+2014-05-05 19:35:56 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 19:35:56 proof-of-work found  
+  hash: 00000b23e3ac137fe4345e3c5c3f8a71e11f636cbcd700a2a93b6e33e74685d1  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 19:35:56 CBlock(hash=89acac0bd8f6825e92d3d1e33da4626f19470f5df384e202a73074f2c982b6bf, input=020000007c2be0c6381a69a2813e336087f2c3a87a582d6b4523ef96987f56c2734bffcea1136f92f912843806a6a6d097ec68ce91bfbc3c05c7f82c87f580f7eb8cf0b31ce86753f0ff0f1e0b1f0300, PoW=00000b23e3ac137fe4345e3c5c3f8a71e11f636cbcd700a2a93b6e33e74685d1, ver=2, hashPrevBlock=ceff4b73c2567f9896ef23456b2d587aa8c3f28760333e81a2691a38c6e02b7c, hashMerkleRoot=b3f08cebf780f5872cf8c7053cbcbf91ce68ec97d0a6a606388412f9926f13a1, nTime=1399318556, nBits=1e0ffff0, nNonce=204555, vtx=1)
+2014-05-05 19:35:56   CTransaction(hash=b3f08cebf780f5872cf8c7053cbcbf91ce68ec97d0a6a606388412f9926f13a1, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 5d0103062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=033f5f3960df4da72c31cb89ee8efc)
+    CTxOut(error)
+  vMerkleTree: b3f08cebf780f5872cf8c7053cbcbf91ce68ec97d0a6a606388412f9926f13a1 
+2014-05-05 19:35:56 generated 25.00
+2014-05-05 19:35:56 keypool keep 14
+2014-05-05 19:35:56 AddToWallet b3f08cebf780f5872cf8c7053cbcbf91ce68ec97d0a6a606388412f9926f13a1  new
+2014-05-05 19:35:56 SetBestChain: new best=89acac0bd8f6825e92d3d1e33da4626f19470f5df384e202a73074f2c982b6bf  height=13  log2_work=23.807377  tx=14  date=2014-05-05 19:35:56 progress=0.000008
+2014-05-05 19:35:56 ProcessBlock: ACCEPTED
+2014-05-05 19:35:56 sending: inv (37 bytes)
+2014-05-05 19:35:56 keypool added key 115, size=101
+2014-05-05 19:35:56 keypool reserve 15
+2014-05-05 19:35:56 CreateNewBlock(): total size 1000
+2014-05-05 19:35:56 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:35:56 CreateNewBlock(): total size 1000
+2014-05-05 19:35:56 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:35:56 received: getdata (37 bytes)
+2014-05-05 19:35:56 received getdata (1 invsz)
+2014-05-05 19:35:56 received getdata for: block 89acac0bd8f6825e92d3d1e33da4626f19470f5df384e202a73074f2c982b6bf
+2014-05-05 19:35:56 sending: block (195 bytes)
+2014-05-05 19:35:56 CreateNewBlock(): total size 1000
+2014-05-05 19:35:56 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:35:56 CreateNewBlock(): total size 1000
+2014-05-05 19:35:56 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:35:58 Flushing wallet.dat
+2014-05-05 19:35:58 Flushed wallet.dat 66ms
+2014-05-05 19:38:54 Flushed 0 addresses to peers.dat  35ms
+2014-05-05 19:53:54 Flushed 0 addresses to peers.dat  58ms
+2014-05-05 19:54:04 hashmeter      1 khash/s
+2014-05-05 19:54:05 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 19:54:05 proof-of-work found  
+  hash: 00000d775e85a5868bca6eb3cd68df9a5251dfbed5964da03fe9aa4d07a872ec  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 19:54:05 CBlock(hash=5b8431bd27c2c567cee0a68a581c6282c666029388b76495a67eb30d90caf1b0, input=02000000bfb682c9f27430a702e284f35d0f47196f62a43de3d1d3925e82f6d80bacac89be6b3dec848a39977a78d1a30533846eb2af6afc5af6fd61926a890fbd3c0d835dec6753f0ff0f1ebd520800, PoW=00000d775e85a5868bca6eb3cd68df9a5251dfbed5964da03fe9aa4d07a872ec, ver=2, hashPrevBlock=89acac0bd8f6825e92d3d1e33da4626f19470f5df384e202a73074f2c982b6bf, hashMerkleRoot=830d3cbd0f896a9261fdf65afc6aafb26e843305a3d1787a97398a84ec3d6bbe, nTime=1399319645, nBits=1e0ffff0, nNonce=545469, vtx=1)
+2014-05-05 19:54:05   CTransaction(hash=830d3cbd0f896a9261fdf65afc6aafb26e843305a3d1787a97398a84ec3d6bbe, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 5e0106062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=038afbd41699fccb243ad436239b25)
+    CTxOut(error)
+  vMerkleTree: 830d3cbd0f896a9261fdf65afc6aafb26e843305a3d1787a97398a84ec3d6bbe 
+2014-05-05 19:54:05 generated 25.00
+2014-05-05 19:54:06 keypool keep 11
+2014-05-05 19:54:06 AddToWallet 830d3cbd0f896a9261fdf65afc6aafb26e843305a3d1787a97398a84ec3d6bbe  new
+2014-05-05 19:54:06 SetBestChain: new best=5b8431bd27c2c567cee0a68a581c6282c666029388b76495a67eb30d90caf1b0  height=14  log2_work=23.906913  tx=15  date=2014-05-05 19:54:05 progress=0.000009
+2014-05-05 19:54:06 ProcessBlock: ACCEPTED
+2014-05-05 19:54:06 sending: inv (37 bytes)
+2014-05-05 19:54:06 CreateNewBlock(): total size 1000
+2014-05-05 19:54:06 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:54:06 keypool added key 116, size=101
+2014-05-05 19:54:06 CreateNewBlock(): total size 1000
+2014-05-05 19:54:06 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:54:06 received: getdata (37 bytes)
+2014-05-05 19:54:06 received getdata (1 invsz)
+2014-05-05 19:54:06 received getdata for: block 5b8431bd27c2c567cee0a68a581c6282c666029388b76495a67eb30d90caf1b0
+2014-05-05 19:54:06 sending: block (195 bytes)
+2014-05-05 19:54:06 keypool reserve 16
+2014-05-05 19:54:06 CreateNewBlock(): total size 1000
+2014-05-05 19:54:06 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:54:06 CreateNewBlock(): total size 1000
+2014-05-05 19:54:06 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:54:08 Flushing wallet.dat
+2014-05-05 19:54:08 Flushed wallet.dat 67ms
+2014-05-05 19:58:52 received: inv (37 bytes)
+2014-05-05 19:58:52   got inventory: block 15e94dec0683896f601d026ed7d589ec8aee440f0b3bdf9767a11413746d4f0e  new
+2014-05-05 19:58:52 askfor block 15e94dec0683896f601d026ed7d589ec8aee440f0b3bdf9767a11413746d4f0e   0 (00:00:00)
+2014-05-05 19:58:52 sending getdata: block 15e94dec0683896f601d026ed7d589ec8aee440f0b3bdf9767a11413746d4f0e
+2014-05-05 19:58:52 sending: getdata (37 bytes)
+2014-05-05 19:58:52 received: block (195 bytes)
+2014-05-05 19:58:52 received block 15e94dec0683896f601d026ed7d589ec8aee440f0b3bdf9767a11413746d4f0e
+2014-05-05 19:58:52 SetBestChain: new best=15e94dec0683896f601d026ed7d589ec8aee440f0b3bdf9767a11413746d4f0e  height=15  log2_work=24.000022  tx=16  date=2014-05-05 19:58:52 progress=0.000010
+2014-05-05 19:58:52 ProcessBlock: ACCEPTED
+2014-05-05 19:58:52 CreateNewBlock(): total size 1000
+2014-05-05 19:58:52 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:58:52 CreateNewBlock(): total size 1000
+2014-05-05 19:58:52 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:58:52 CreateNewBlock(): total size 1000
+2014-05-05 19:58:52 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 19:58:52 CreateNewBlock(): total size 1000
+2014-05-05 19:58:52 Running WorldAidCoinMiner with 1 transactions in block (195 bytes)
+2014-05-05 20:05:20 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 20:05:20 proof-of-work found  
+  hash: 0000070a36e5d6ce9ac37294413998759d44dbceb878161b7c071b8cacafc22c  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 20:05:20 CBlock(hash=44ed767fd1fd17016b206de65374660326164506d0e73f6137a5c2e0ba2c4bff, input=020000000e4f6d741314a16797df3b0b0f44ee8aec89d5d76e021d606f898306ec4de91502ce835d9aa460eb3f70cfb6544cf10ee918387e0c0735ab4cd655cab4731250ffee6753f0ff0f1ea6be0200, PoW=0000070a36e5d6ce9ac37294413998759d44dbceb878161b7c071b8cacafc22c, ver=2, hashPrevBlock=15e94dec0683896f601d026ed7d589ec8aee440f0b3bdf9767a11413746d4f0e, hashMerkleRoot=501273b4ca55d64cab35070c7e3818e90ef14c54b6cf703feb60a49a5d83ce02, nTime=1399320319, nBits=1e0ffff0, nNonce=179878, vtx=1)
+2014-05-05 20:05:20   CTransaction(hash=501273b4ca55d64cab35070c7e3818e90ef14c54b6cf703feb60a49a5d83ce02, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 600101062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=03e0d92902d8c9b4b90e27660200a7)
+    CTxOut(error)
+  vMerkleTree: 501273b4ca55d64cab35070c7e3818e90ef14c54b6cf703feb60a49a5d83ce02 
+2014-05-05 20:05:20 generated 25.00
+2014-05-05 20:05:20 keypool keep 16
+2014-05-05 20:05:20 AddToWallet 501273b4ca55d64cab35070c7e3818e90ef14c54b6cf703feb60a49a5d83ce02  new
+2014-05-05 20:05:20 SetBestChain: new best=44ed767fd1fd17016b206de65374660326164506d0e73f6137a5c2e0ba2c4bff  height=16  log2_work=24.087485  tx=17  date=2014-05-05 20:05:19 progress=0.000010
+2014-05-05 20:05:20 ProcessBlock: ACCEPTED
+2014-05-05 20:05:20 keypool added key 117, size=101
+2014-05-05 20:05:20 keypool reserve 17
+2014-05-05 20:05:20 CreateNewBlock(): total size 1000
+2014-05-05 20:05:20 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:05:20 sending: inv (37 bytes)
+2014-05-05 20:05:20 CreateNewBlock(): total size 1000
+2014-05-05 20:05:20 received: getdata (37 bytes)
+2014-05-05 20:05:20 received getdata (1 invsz)
+2014-05-05 20:05:20 received getdata for: block 44ed767fd1fd17016b206de65374660326164506d0e73f6137a5c2e0ba2c4bff
+2014-05-05 20:05:20 sending: block (195 bytes)
+2014-05-05 20:05:20 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:05:20 CreateNewBlock(): total size 1000
+2014-05-05 20:05:20 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:05:20 CreateNewBlock(): total size 1000
+2014-05-05 20:05:20 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:05:22 Flushing wallet.dat
+2014-05-05 20:05:22 Flushed wallet.dat 116ms
+2014-05-05 20:08:54 Flushed 0 addresses to peers.dat  43ms
+2014-05-05 20:22:48 received: inv (37 bytes)
+2014-05-05 20:22:48   got inventory: block 5f8e517f53e97a798dd07c52cf0303cd5d18f24c42141e13811151ea533e22ff  new
+2014-05-05 20:22:48 askfor block 5f8e517f53e97a798dd07c52cf0303cd5d18f24c42141e13811151ea533e22ff   0 (00:00:00)
+2014-05-05 20:22:48 sending getdata: block 5f8e517f53e97a798dd07c52cf0303cd5d18f24c42141e13811151ea533e22ff
+2014-05-05 20:22:48 sending: getdata (37 bytes)
+2014-05-05 20:22:48 received: block (196 bytes)
+2014-05-05 20:22:48 received block 5f8e517f53e97a798dd07c52cf0303cd5d18f24c42141e13811151ea533e22ff
+2014-05-05 20:22:48 SetBestChain: new best=5f8e517f53e97a798dd07c52cf0303cd5d18f24c42141e13811151ea533e22ff  height=17  log2_work=24.169947  tx=18  date=2014-05-05 20:22:47 progress=0.000011
+2014-05-05 20:22:48 ProcessBlock: ACCEPTED
+2014-05-05 20:22:48 CreateNewBlock(): total size 1000
+2014-05-05 20:22:48 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:22:48 CreateNewBlock(): total size 1000
+2014-05-05 20:22:48 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:22:48 CreateNewBlock(): total size 1000
+2014-05-05 20:22:48 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:22:48 CreateNewBlock(): total size 1000
+2014-05-05 20:22:48 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:23:55 Flushed 0 addresses to peers.dat  49ms
+2014-05-05 20:24:05 hashmeter      3 khash/s
+2014-05-05 20:25:30 received: inv (37 bytes)
+2014-05-05 20:25:30   got inventory: block 4832c678453307d0ddb2df2884eb324fa2d5e4dc8f3303c6ac1ee7b6357cb6a3  new
+2014-05-05 20:25:30 askfor block 4832c678453307d0ddb2df2884eb324fa2d5e4dc8f3303c6ac1ee7b6357cb6a3   0 (00:00:00)
+2014-05-05 20:25:30 sending getdata: block 4832c678453307d0ddb2df2884eb324fa2d5e4dc8f3303c6ac1ee7b6357cb6a3
+2014-05-05 20:25:30 sending: getdata (37 bytes)
+2014-05-05 20:25:30 received: block (196 bytes)
+2014-05-05 20:25:30 received block 4832c678453307d0ddb2df2884eb324fa2d5e4dc8f3303c6ac1ee7b6357cb6a3
+2014-05-05 20:25:30 SetBestChain: new best=4832c678453307d0ddb2df2884eb324fa2d5e4dc8f3303c6ac1ee7b6357cb6a3  height=18  log2_work=24.24795  tx=19  date=2014-05-05 20:25:29 progress=0.000011
+2014-05-05 20:25:30 ProcessBlock: ACCEPTED
+2014-05-05 20:25:30 CreateNewBlock(): total size 1000
+2014-05-05 20:25:30 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:25:31 CreateNewBlock(): total size 1000
+2014-05-05 20:25:31 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:25:31 CreateNewBlock(): total size 1000
+2014-05-05 20:25:31 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:25:31 CreateNewBlock(): total size 1000
+2014-05-05 20:25:31 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:31:32 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 20:31:32 proof-of-work found  
+  hash: 00000724a029bc14477b44f4ad5c849dab7cbfac1110c0cc6e87edb98477f66e  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 20:31:32 CBlock(hash=b988b416f1d97817ee5e5483592d4b57932a3d7df43fea1031f5362162f6af41, input=02000000a3b67c35b6e71eacc603338fdce4d5a24f32eb8428dfb2ddd007334578c63248f19b6da8093301e67324ee7268c29d54252581da759a5e53a842d83401b51e6324f56753f0ff0f1eb7b80200, PoW=00000724a029bc14477b44f4ad5c849dab7cbfac1110c0cc6e87edb98477f66e, ver=2, hashPrevBlock=4832c678453307d0ddb2df2884eb324fa2d5e4dc8f3303c6ac1ee7b6357cb6a3, hashMerkleRoot=631eb50134d842a8535e9a75da812525549dc26872ee2473e6013309a86d9bf1, nTime=1399321892, nBits=1e0ffff0, nNonce=178359, vtx=1)
+2014-05-05 20:31:32   CTransaction(hash=631eb50134d842a8535e9a75da812525549dc26872ee2473e6013309a86d9bf1, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 01130105062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=0325ada7aa9af7ce662cb98678f3d2)
+    CTxOut(error)
+  vMerkleTree: 631eb50134d842a8535e9a75da812525549dc26872ee2473e6013309a86d9bf1 
+2014-05-05 20:31:32 generated 25.00
+2014-05-05 20:31:32 keypool keep 15
+2014-05-05 20:31:32 AddToWallet 631eb50134d842a8535e9a75da812525549dc26872ee2473e6013309a86d9bf1  new
+2014-05-05 20:31:33 SetBestChain: new best=b988b416f1d97817ee5e5483592d4b57932a3d7df43fea1031f5362162f6af41  height=19  log2_work=24.32195  tx=20  date=2014-05-05 20:31:32 progress=0.000012
+2014-05-05 20:31:33 ProcessBlock: ACCEPTED
+2014-05-05 20:31:33 sending: inv (37 bytes)
+2014-05-05 20:31:33 keypool added key 118, size=101
+2014-05-05 20:31:33 CreateNewBlock(): total size 1000
+2014-05-05 20:31:33 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:31:33 keypool reserve 18
+2014-05-05 20:31:33 CreateNewBlock(): total size 1000
+2014-05-05 20:31:33 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:31:33 received: getdata (37 bytes)
+2014-05-05 20:31:33 received getdata (1 invsz)
+2014-05-05 20:31:33 received getdata for: block b988b416f1d97817ee5e5483592d4b57932a3d7df43fea1031f5362162f6af41
+2014-05-05 20:31:33 sending: block (196 bytes)
+2014-05-05 20:31:33 CreateNewBlock(): total size 1000
+2014-05-05 20:31:33 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:31:33 CreateNewBlock(): total size 1000
+2014-05-05 20:31:33 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:31:35 Flushing wallet.dat
+2014-05-05 20:31:35 Flushed wallet.dat 521ms
+2014-05-05 20:32:32 Entering to found a solution sectionWorldAidCoinMiner:
+2014-05-05 20:32:32 proof-of-work found  
+  hash: 000009cd1dc542dbac480a292e95bf4ec4fcc6806c35b45422c10b4b5738f070  
+target: 00000ffff0000000000000000000000000000000000000000000000000000000
+2014-05-05 20:32:32 CBlock(hash=6d9572bac1f544d811c4240fbc64207a4319223be9bee80b168aba910b92a168, input=0200000041aff6622136f53110ea3ff47d3d2a93574b2d5983545eee1778d9f116b488b93aec3b73e0d60b236291d9d8308a0561a30e6baa87c63233644a3ef14b1d74b960f56753f0ff0f1e18550000, PoW=000009cd1dc542dbac480a292e95bf4ec4fcc6806c35b45422c10b4b5738f070, ver=2, hashPrevBlock=b988b416f1d97817ee5e5483592d4b57932a3d7df43fea1031f5362162f6af41, hashMerkleRoot=b9741d4bf13e4a643332c687aa6b0ea361058a30d8d99162230bd6e0733bec3a, nTime=1399321952, nBits=1e0ffff0, nNonce=21784, vtx=1)
+2014-05-05 20:32:32   CTransaction(hash=b9741d4bf13e4a643332c687aa6b0ea361058a30d8d99162230bd6e0733bec3a, ver=1, vin.size=1, vout.size=2, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 01140106062f503253482f)
+    CTxOut(nValue=25.00000000, scriptPubKey=02f80eb6e66a026fddcc95ca4d4fca)
+    CTxOut(error)
+  vMerkleTree: b9741d4bf13e4a643332c687aa6b0ea361058a30d8d99162230bd6e0733bec3a 
+2014-05-05 20:32:32 generated 25.00
+2014-05-05 20:32:32 keypool keep 18
+2014-05-05 20:32:32 AddToWallet b9741d4bf13e4a643332c687aa6b0ea361058a30d8d99162230bd6e0733bec3a  new
+2014-05-05 20:32:32 SetBestChain: new best=6d9572bac1f544d811c4240fbc64207a4319223be9bee80b168aba910b92a168  height=20  log2_work=24.392339  tx=21  date=2014-05-05 20:32:32 progress=0.000013
+2014-05-05 20:32:32 ProcessBlock: ACCEPTED
+2014-05-05 20:32:32 sending: inv (37 bytes)
+2014-05-05 20:32:32 CreateNewBlock(): total size 1000
+2014-05-05 20:32:32 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:32:32 CreateNewBlock(): total size 1000
+2014-05-05 20:32:32 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:32:32 keypool added key 119, size=101
+2014-05-05 20:32:32 CreateNewBlock(): total size 1000
+2014-05-05 20:32:32 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:32:32 received: getdata (37 bytes)
+2014-05-05 20:32:32 received getdata (1 invsz)
+2014-05-05 20:32:32 received getdata for: block 6d9572bac1f544d811c4240fbc64207a4319223be9bee80b168aba910b92a168
+2014-05-05 20:32:32 sending: block (196 bytes)
+2014-05-05 20:32:32 keypool reserve 19
+2014-05-05 20:32:32 CreateNewBlock(): total size 1000
+2014-05-05 20:32:32 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:32:34 Flushing wallet.dat
+2014-05-05 20:32:34 Flushed wallet.dat 161ms
+2014-05-05 20:37:45 received: inv (37 bytes)
+2014-05-05 20:37:45   got inventory: block 92bf95c45d9735a50abb274781cf8c41f3261c286b4314085dd01e5e2ee0ac9c  new
+2014-05-05 20:37:45 askfor block 92bf95c45d9735a50abb274781cf8c41f3261c286b4314085dd01e5e2ee0ac9c   0 (00:00:00)
+2014-05-05 20:37:45 sending getdata: block 92bf95c45d9735a50abb274781cf8c41f3261c286b4314085dd01e5e2ee0ac9c
+2014-05-05 20:37:45 sending: getdata (37 bytes)
+2014-05-05 20:37:45 received: block (196 bytes)
+2014-05-05 20:37:45 received block 92bf95c45d9735a50abb274781cf8c41f3261c286b4314085dd01e5e2ee0ac9c
+2014-05-05 20:37:45 SetBestChain: new best=92bf95c45d9735a50abb274781cf8c41f3261c286b4314085dd01e5e2ee0ac9c  height=21  log2_work=24.459454  tx=22  date=2014-05-05 20:37:42 progress=0.000013
+2014-05-05 20:37:45 ProcessBlock: ACCEPTED
+2014-05-05 20:37:45 CreateNewBlock(): total size 1000
+2014-05-05 20:37:45 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:37:45 CreateNewBlock(): total size 1000
+2014-05-05 20:37:45 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:37:45 CreateNewBlock(): total size 1000
+2014-05-05 20:37:45 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:37:45 CreateNewBlock(): total size 1000
+2014-05-05 20:37:45 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:38:55 Flushed 0 addresses to peers.dat  82ms
+2014-05-05 20:42:46 received: inv (37 bytes)
+2014-05-05 20:42:46   got inventory: block 98a3e6e6a9c553e87d41754305bfa17452a62138475c2f3c4632c56c851bd627  new
+2014-05-05 20:42:46 askfor block 98a3e6e6a9c553e87d41754305bfa17452a62138475c2f3c4632c56c851bd627   0 (00:00:00)
+2014-05-05 20:42:46 sending getdata: block 98a3e6e6a9c553e87d41754305bfa17452a62138475c2f3c4632c56c851bd627
+2014-05-05 20:42:46 sending: getdata (37 bytes)
+2014-05-05 20:42:46 received: block (196 bytes)
+2014-05-05 20:42:46 received block 98a3e6e6a9c553e87d41754305bfa17452a62138475c2f3c4632c56c851bd627
+2014-05-05 20:42:46 SetBestChain: new best=98a3e6e6a9c553e87d41754305bfa17452a62138475c2f3c4632c56c851bd627  height=22  log2_work=24.523584  tx=23  date=2014-05-05 20:42:46 progress=0.000014
+2014-05-05 20:42:46 ProcessBlock: ACCEPTED
+2014-05-05 20:42:47 CreateNewBlock(): total size 1000
+2014-05-05 20:42:47 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:42:47 CreateNewBlock(): total size 1000
+2014-05-05 20:42:47 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:42:47 CreateNewBlock(): total size 1000
+2014-05-05 20:42:47 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:42:47 CreateNewBlock(): total size 1000
+2014-05-05 20:42:47 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:52:58 received: inv (37 bytes)
+2014-05-05 20:52:58   got inventory: block c07d5195d17f9643f749b77da8cf08f7e381b9e882619142bf144d51697e739a  new
+2014-05-05 20:52:58 askfor block c07d5195d17f9643f749b77da8cf08f7e381b9e882619142bf144d51697e739a   0 (00:00:00)
+2014-05-05 20:52:58 sending getdata: block c07d5195d17f9643f749b77da8cf08f7e381b9e882619142bf144d51697e739a
+2014-05-05 20:52:58 sending: getdata (37 bytes)
+2014-05-05 20:52:58 received: block (196 bytes)
+2014-05-05 20:52:58 received block c07d5195d17f9643f749b77da8cf08f7e381b9e882619142bf144d51697e739a
+2014-05-05 20:52:58 SetBestChain: new best=c07d5195d17f9643f749b77da8cf08f7e381b9e882619142bf144d51697e739a  height=23  log2_work=24.584985  tx=24  date=2014-05-05 20:52:58 progress=0.000015
+2014-05-05 20:52:58 ProcessBlock: ACCEPTED
+2014-05-05 20:52:58 CreateNewBlock(): total size 1000
+2014-05-05 20:52:58 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:52:59 CreateNewBlock(): total size 1000
+2014-05-05 20:52:59 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:52:59 CreateNewBlock(): total size 1000
+2014-05-05 20:52:59 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:53:00 CreateNewBlock(): total size 1000
+2014-05-05 20:53:00 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:53:55 Flushed 0 addresses to peers.dat  243ms
+2014-05-05 20:54:06 hashmeter      1 khash/s
+2014-05-05 20:55:03 received: inv (37 bytes)
+2014-05-05 20:55:03   got inventory: block 0e2e7493be6126f4024559ed65c286396999a156a764eb12637d29344d56f669  new
+2014-05-05 20:55:03 askfor block 0e2e7493be6126f4024559ed65c286396999a156a764eb12637d29344d56f669   0 (00:00:00)
+2014-05-05 20:55:03 sending getdata: block 0e2e7493be6126f4024559ed65c286396999a156a764eb12637d29344d56f669
+2014-05-05 20:55:03 sending: getdata (37 bytes)
+2014-05-05 20:55:04 received: block (196 bytes)
+2014-05-05 20:55:04 received block 0e2e7493be6126f4024559ed65c286396999a156a764eb12637d29344d56f669
+2014-05-05 20:55:04 SetBestChain: new best=0e2e7493be6126f4024559ed65c286396999a156a764eb12637d29344d56f669  height=24  log2_work=24.643878  tx=25  date=2014-05-05 20:55:02 progress=0.000015
+2014-05-05 20:55:04 ProcessBlock: ACCEPTED
+2014-05-05 20:55:04 CreateNewBlock(): total size 1000
+2014-05-05 20:55:04 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:55:04 CreateNewBlock(): total size 1000
+2014-05-05 20:55:04 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:55:04 CreateNewBlock(): total size 1000
+2014-05-05 20:55:04 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:55:05 CreateNewBlock(): total size 1000
+2014-05-05 20:55:05 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:57:59 received: inv (37 bytes)
+2014-05-05 20:57:59   got inventory: block ee5167f91def94ad0672512d0dc86fff12dc4e6e722ed3fe842e003d67602666  new
+2014-05-05 20:57:59 askfor block ee5167f91def94ad0672512d0dc86fff12dc4e6e722ed3fe842e003d67602666   0 (00:00:00)
+2014-05-05 20:57:59 sending getdata: block ee5167f91def94ad0672512d0dc86fff12dc4e6e722ed3fe842e003d67602666
+2014-05-05 20:57:59 sending: getdata (37 bytes)
+2014-05-05 20:57:59 received: block (196 bytes)
+2014-05-05 20:57:59 received block ee5167f91def94ad0672512d0dc86fff12dc4e6e722ed3fe842e003d67602666
+2014-05-05 20:57:59 SetBestChain: new best=ee5167f91def94ad0672512d0dc86fff12dc4e6e722ed3fe842e003d67602666  height=25  log2_work=24.700462  tx=26  date=2014-05-05 20:57:59 progress=0.000016
+2014-05-05 20:57:59 ProcessBlock: ACCEPTED
+2014-05-05 20:58:00 CreateNewBlock(): total size 1000
+2014-05-05 20:58:00 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:58:00 CreateNewBlock(): total size 1000
+2014-05-05 20:58:00 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:58:00 CreateNewBlock(): total size 1000
+2014-05-05 20:58:00 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 20:58:00 CreateNewBlock(): total size 1000
+2014-05-05 20:58:00 Running WorldAidCoinMiner with 1 transactions in block (196 bytes)
+2014-05-05 21:03:19 Shutdown : In progress...
+2014-05-05 21:03:19 net thread interrupt
+2014-05-05 21:03:19 opencon thread interrupt
+2014-05-05 21:03:19 dumpaddr thread stop
+2014-05-05 21:03:19 addcon thread interrupt
+2014-05-05 21:03:19 msghand thread interrupt
+2014-05-05 21:03:19 Flush(false)
+2014-05-05 21:03:19 DBFlush(false) ended               0ms
+2014-05-05 21:03:19 StopNode()
+2014-05-05 21:03:19 WorldAidCoinMiner terminated
+2014-05-05 21:03:19 keypool return 10
+2014-05-05 21:03:19 WorldAidCoinMiner terminated
+2014-05-05 21:03:19 keypool return 9
+2014-05-05 21:03:19 WorldAidCoinMiner terminated
+2014-05-05 21:03:19 keypool return 17
+2014-05-05 21:03:19 WorldAidCoinMiner terminated
+2014-05-05 21:03:19 keypool return 19
+2014-05-05 21:03:19 Flushed 0 addresses to peers.dat  332ms
+2014-05-05 21:03:19 Committing 25 changed transactions to coin database...
+2014-05-05 21:03:19 Flush(true)
+2014-05-05 21:03:19 wallet.dat refcount=0
+2014-05-05 21:03:19 wallet.dat checkpoint
+2014-05-05 21:03:20 wallet.dat detach
+2014-05-05 21:03:20 wallet.dat closed
+2014-05-05 21:03:20 DBFlush(true) ended             151ms
+2014-05-05 21:03:20 Shutdown : done
